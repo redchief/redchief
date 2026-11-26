@@ -8,7 +8,7 @@
 ![Focus](https://img.shields.io/badge/Focus-P_vs_NP_%E2%80%A2_Mobile_Linux-23143d?style=flat&labelColor=18181b&color=a855f7)
 ![Mindset](https://img.shields.io/badge/Mindset-Code_%E2%80%A2_Prove_%E2%80%A2_Ship-23143d?style=flat&labelColor=18181b&color=7c3aed)
 
-[![X](https://img.shields.io/badge/X-@redch1ef-18181b?style=flat&logo=x&logoColor=white&color=7c3aed)](https://x.com/redch1ef)
+[![X](https://img.shields.io/badge/X-@jaysheelutekar-18181b?style=flat&logo=x&logoColor=white&color=7c3aed)](https://x.com/jaysheelutekar)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-18181b?style=flat&logo=github&logoColor=white&color=6d28d9)](https://github.com/redchief?tab=repositories)
 [![pequalnp](https://img.shields.io/badge/pequalnp-Profile-18181b?style=flat&color=9333ea)](https://pequalnp.com/a/redchief)
 
